@@ -1,4 +1,4 @@
-import json
+import csv
 
 def load_data(file_path):
     dictinary=dict() 
