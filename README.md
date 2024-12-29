@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Authentication-%20Implemented-green" alt="Authentication">
 </p>
 
-# 🍔 Task Description: Food Ordering System Implementation
+# 🍔 Food Ordering System Implementation
 
 #### **Project Overview**
 
