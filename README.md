@@ -1,7 +1,11 @@
 <p align="center">
-  <img width ="400" height="200" src="https://github.com/user-attachments/assets/ce879010-cde2-42cb-a058-aea97a501aa2">
+  <img wi
+    dth ="400" height="200" src="https://github.com/user-attachments/assets/ce879010-cde2-42cb-a058-aea97a501aa2">
 </p>
-
+![Python](https://img.shields.io/badge/Python-%203.x-%20blue)
+![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV%20Handling-%20Active-brightgreen)
+![OOP](https://img.shields.io/badge/OOP%20Project-%20Active-blue)
 ### 🍔 Task Description: Food Ordering System Implementation
 
 #### **Project Overview**
