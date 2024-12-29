@@ -1,0 +1,3 @@
+id,username,password,age,first_name,last_name,is_loggedin,role
+685c415b-71e5-4a85-b0e9-0cf8a4f5bf50,w,$2b$12$CrDPLb2zjJJqSRE6reaN3OhxQs75jcgJWXhuMf4Z/9ihFGRB2T4zm,2,w,w,False,user
+4459d864-58fb-4a02-848f-0390c9599f89,e,$2b$12$F/9WW1ndlZ9BaZAVrqGmSuNes.V8kil9gYu3zr9NtDdgnjzkhlUf2,5,e,e,True,user
